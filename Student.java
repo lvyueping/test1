@@ -3,7 +3,7 @@ public class Student{
 	private String name;
 	
 	public void test(){
-		
+		system.out.println();
 	}
 	
 }
